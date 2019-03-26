@@ -1,0 +1,12 @@
+
+<div id="{{include.diveId}}" style="width: 100%; height: 100%"></div>
+<script src="https://hub-cdn.thron.com/shared/ce/bootstrap/1/scripts/embeds-min.js"></script>
+
+<script>
+    var options = {
+        clientId: "{{include.clientId}}",
+        xcontentId: "{{include.contentId}}",
+        sessId: "{{include.pkey}}"
+    };
+    var player = THRONContentExperience("{{include.divId}}", options);
+</script>
