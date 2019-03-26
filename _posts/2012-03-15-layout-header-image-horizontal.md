@@ -1,7 +1,7 @@
 ---
 title: "Layout: Header Image (Horizontal)"
 header:
-  image: /assets/images/unsplash-image-1.jpg
+  image: "https://hub-cdn.thron.com/delivery/public/image/hub/79244839-3d56-4703-b955-b18a06046ca2/a8yszh/std/160x160/header"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 categories:
   - Layout
