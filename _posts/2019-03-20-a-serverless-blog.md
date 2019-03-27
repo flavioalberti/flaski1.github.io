@@ -9,6 +9,9 @@ tags:
  - github
  - serverless
  - jekyll
+header: 
+  teaser: "https://hub-cdn.thron.com/delivery/public/image/hub/1ab78b0f-caed-4daa-944e-b03ff36f2d4b/1kvrf0/std/0x0/header.jpg"
+header_description: "some example"
 ---
 
 I wanted to create a simple blog to share with friends, the emotions I'm going to live at the Fischer Transalp 2019.
