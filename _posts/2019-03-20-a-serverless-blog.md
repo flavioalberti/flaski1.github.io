@@ -37,19 +37,21 @@ Seguiago velocemente i semplici passi che ho dovuto effettuare per la realizzazi
 4. pubblica i contenuti in THRON e condividili 
 5. crea un post ed includi i contenuti immagini
 
-## esempio immagine responsiva con player in iframe
+## immagine
 
 {% highlight javascript %} 
 {{ "{% include thron-player.html contentId=<thron contentId> pkey=<share key> clientId=<thron serviceId>" }}%}
 {% endhighlight %}
-	
-
-### image
 {% include thronplayer3.html contentId="lagorai" divId="image1" pkey="a8yszh" clientId="hub" padding="75%" %}
 
-### video
-{% include thronplayer3.html contentId="flavio-alberti-video" divId="video1" pkey="a8yszh" clientId="hub" padding="75%" %}
+In questo esempio viene embeddato un'imamgine sfruttando il player di thron, l'immagine visualizzata è responsiva, il player si adatta alla pagina in base allo spazio definito per la visualizzazione.
 
+
+### video
+{% include thronplayer3.html contentId="1ab78b0f-caed-4daa-944e-b03ff36f2d4b" divId="video1" pkey="1kvrf0" clientId="hub" padding="75%" %}
+
+
+In questo esempio è stato embeddato un semplice contenuto video, attraverso il player di thron che si adatta in modo responsivo alla dimensione del div in pagina
 
 
 
