@@ -39,8 +39,8 @@ Seguiago velocemente i semplici passi che ho dovuto effettuare per la realizzazi
 
 ## esempio immagine responsiva con player in iframe
 
-	{% include thronplayer3.html contentId="<thron contentId>" pkey="<share key>" clientId="<thron serviceId>"%}
-
+{% highlight javascript %} "{% include thronplayer3.html contentId="<thron contentId>" pkey="<share key>" clientId="<thron serviceId>"%}" {% endhighlight %}
+	
 
 ### image
 {% include thronplayer3.html contentId="lagorai" divId="image1" pkey="a8yszh" clientId="hub" padding="75%" %}
