@@ -40,7 +40,7 @@ Seguiago velocemente i semplici passi che ho dovuto effettuare per la realizzazi
 ## immagine
 
 {% highlight javascript %} 
-{{ "{% include thron-player.html 
+{{ "{% include thronplayer.html 
 contentId=<thron contentId> pkey=<share key> clientId=<thron serviceId>" }}%}
 {% endhighlight %}
 
@@ -56,13 +56,13 @@ src="https://<clientId>-cdn.thron.com/shared/plugins/embed/current/clientId/cont
 {% endhighlight %}
 
 
-{% include thronplayer3.html contentId="lagorai" divId="image1" pkey="a8yszh" clientId="hub" padding="75%" %}
+{% include thronplayer.html contentId="lagorai" divId="image1" pkey="a8yszh" clientId="hub" padding="75%" %}
 
 In questo esempio viene embeddato un'imamgine sfruttando il player di thron, l'immagine visualizzata è responsiva, il player si adatta alla pagina in base allo spazio definito per la visualizzazione.
 
 
 ### video
-{% include thronplayer3.html contentId="1ab78b0f-caed-4daa-944e-b03ff36f2d4b" divId="video1" pkey="1kvrf0" clientId="hub" padding="75%" %}
+{% include thronplayer.html contentId="1ab78b0f-caed-4daa-944e-b03ff36f2d4b" divId="video1" pkey="1kvrf0" clientId="hub" padding="75%" %}
 
 
 In questo esempio è stato embeddato un semplice contenuto video, attraverso il player di thron che si adatta in modo responsivo alla dimensione del div in pagina
