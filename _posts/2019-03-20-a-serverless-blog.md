@@ -1,0 +1,54 @@
+---
+title: "An easy blog page"
+excerpt: "How to write and deploy a simple blog page with Github, Thron and jekyll framework"
+categories:
+  - posts
+tags: 
+ - tech 
+ - thron 
+ - github
+ - serverless
+---
+# Perchè?
+
+Ho creato questo semplice blog, per poter pubblicare e condividere la fatastica esperinza della Fischer Transalp.
+Cercavo una soluzione semplice che mi permettesse di raccogliere foto e video, ma che non mi costringesse a gestire tutta la parte di infrastuttura necessaria (hosting php + cms etc) per la pubblicazione dei singoli post.
+
+Ho quindi pensato ad utilizzare la piattaforma THRON (per la gestione di tutti i contenuti multimediali), mentre Github pages per la gestione dei post e dell'impaginazione.
+Vediamo brevemente come è stato realizzato
+
+## Github (*www.github.com*)
+
+Ho creato un nuovo repositoy pubblico in github, come clone del minimal-mistake repo, a progetto open basato sul framework jekyll per la generazione statica di pagine html.
+
+Github pages supporta l'integrazione con XXX, e l'utilizzo di jekyll è molto utilizzato per la realizzazione di semplici pagine
+
+
+
+## THRON
+La piattaforma THRON (an Intelligent DAM), è stata utilizzata per la gestione di tutti gli asset multimediali (video ed immagini). La gestione di questi contenuti solitamente non viene maicentralizzati, e tali si trovano suddivisi tra piattaforme video e Gestori di immagini. Thron è una piattaforma che gestisce e distribuisce qualsiasi tipo di contenuto, quidi ho utilizzato questa. 
+
+# How to
+Seguiago velocemente i semplici passi che ho dovuto effettuare per la realizzazione del blog.
+
+1. clone del repository
+2. configurazione: segui questa semplice guida
+3. include il player di thron
+4. pubblica i contenuti in THRON e condividili 
+5. crea un post ed includi i contenuti immagini
+
+##esempio immagine responsiva con player in iframe
+
+{% include thronplayer3.html contentId="<thron contentId>" pkey="<share key>" clientId="<thron serviceId>"%}
+
+```
+{% include thronplayer3.html contentId="lagorai" divId="image1" pkey="a8yszh" clientId="hub" padding="75%" %}
+```
+
+
+
+
+
+
+
+
