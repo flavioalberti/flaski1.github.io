@@ -40,8 +40,22 @@ Seguiago velocemente i semplici passi che ho dovuto effettuare per la realizzazi
 ## immagine
 
 {% highlight javascript %} 
-{{ "{% include thron-player.html contentId=<thron contentId> pkey=<share key> clientId=<thron serviceId>" }}%}
+{{ "{% include thron-player.html 
+contentId=<thron contentId> pkey=<share key> clientId=<thron serviceId>" }}%}
 {% endhighlight %}
+
+Il codice definito in thron-player.html
+
+{% highlight html %} 
+<div class="wrapper">
+<iframe id="{{include.divId}}" width="100%" height="100%" 
+src="https://{{include.clientid}}-cdn.thron.com/shared/plugins/embed/current/{{include.clientId}}/{{include.contentId}}/{{include.pkey}}" frameborder="0" scrolling="no" allowfullscreen>
+</iframe>
+</div>
+
+{% endhighlight %}
+
+
 {% include thronplayer3.html contentId="lagorai" divId="image1" pkey="a8yszh" clientId="hub" padding="75%" %}
 
 In questo esempio viene embeddato un'imamgine sfruttando il player di thron, l'immagine visualizzata è responsiva, il player si adatta alla pagina in base allo spazio definito per la visualizzazione.
