@@ -48,8 +48,8 @@ Il codice definito in thron-player.html
 
 {% highlight html %} 
 <div class="wrapper">
-<iframe id="{{include.divId}}" width="100%" height="100%" 
-src="https://{{include.clientid}}-cdn.thron.com/shared/plugins/embed/current/{{include.clientId}}/{{include.contentId}}/{{include.pkey}}" frameborder="0" scrolling="no" allowfullscreen>
+<iframe id="4fmms" width="100%" height="100%" 
+src="https://<clientId>-cdn.thron.com/shared/plugins/embed/current/clientId/contentId/pkey" frameborder="0" scrolling="no" allowfullscreen>
 </iframe>
 </div>
 
