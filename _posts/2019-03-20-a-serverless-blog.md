@@ -14,13 +14,13 @@ header:
 header_description: "some example"
 ---
 
-I wanted to create a simple blog to share with friends, the emotions I'm going to live at the Fischer Transalp 2019.
-I desire to make a simple blog, where I can publish the photos and videos that I will carry out every day during the days where we are crossing the Alps from Livigno (IT) to Innsbruck (AT).
+The goal is to create a simple blog, a place where I can share the FisherTransalp experience with my friends in a easy way, without duplicate contents between platform and channels.
+A place where I can publish the photos and videos that I will carry out every day during the days where we are crossing the Alps from Livigno (IT) to Innsbruck (AT).
 
-First of all:
-* ease of use in writing and publishing content
-* serverless: I have no desire or resources to configure hosting plans and domains
-* use THRON, since I work there and is designed to manage content, and has an integrated delivery.
+My desire:
+* *easy*: a Blog platform ease of use in writing and publishing content
+* *serverless*: I have no desire or resources to configure hosting plans and domains
+* *use THRON*: since I work there and is designed to manage content, and has an integrated delivery. Test a different way to integration with blogging platform
 
 # What I chose
 - [Github pages]("https://pages.github.com/") It allows to host static and serverless pages (without the need for a hosting plan, and database)
