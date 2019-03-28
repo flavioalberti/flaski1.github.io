@@ -273,6 +273,8 @@ jekyll-archives:
 #     tag: /tags/:name/
 
 
+
+
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
@@ -280,6 +282,11 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:path/
+    
 
 # Defaults
 defaults:
