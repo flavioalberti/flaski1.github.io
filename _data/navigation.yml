@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "Blog"
-    url: /blog/
   - title: "how to"
-    url: /how-to/
+    url: /posts/2019-03-20-a-serverless-blog/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
