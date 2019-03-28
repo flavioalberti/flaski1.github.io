@@ -25,7 +25,7 @@ My desire:
 
 # What I chose
 - [Github pages](https://pages.github.com/) It allows to host static and serverless pages (without the need for a hosting plan, and database)
-- [minimal mistake tempalte](https://mmistakes.github.io/minimal-mistakes/): a flexible two columb Jekyll template
+- [minimal mistake tempalte](https://mmistakes.github.io/minimal-mistakes/): a flexible two column Jekyll template
 - [THRON](https://www.thron.com): an intelligent DAM, where to store and deliver images and video.
 
 # How to guide
