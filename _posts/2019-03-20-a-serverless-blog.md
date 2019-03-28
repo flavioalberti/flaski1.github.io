@@ -31,10 +31,10 @@ My desire:
 I quickly describe the steps that I followed for the creation of the blog and the integration with the contents managed by THRON
 
 ## Clone the repository
-Start by cloning the [minimal-mistake repository] (https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+Start by cloning the [minimal-mistake repository](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 
 ## Include the THRON Player
-Create a *thronplayer.html* file in _include folder where to define customize the [Player](https://help.thron.com/hc/en-us/articles/115003098433-THRON-Universal-Player)
+Create a *thronplayer.html* file in _include folder where to define customize the [Player](https://help.thron.com/hc/en-us/articles/115003098433-THRON-Universal-Player/)
 
 {% highlight html %} 
 <div class="wrapper">
