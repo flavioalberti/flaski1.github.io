@@ -18,7 +18,8 @@ tags:
 The goal is to create a simple blog, a place where I can share the FisherTransalp experience with my friends in a easy way, without duplicate contents between platform and channels.
 A place where I can publish the photos and videos that I will carry out every day during the days where we are crossing the Alps from Livigno (IT) to Innsbruck (AT).
 
-My desire:
+# My goal
+
 * *easy*: a Blog platform ease of use in writing and publishing content
 * *serverless*: I have no desire or resources to configure hosting plans and domains
 * *use THRON*: since I work there and is designed to manage content, and has an integrated delivery. Test a different way to integration with blogging platform
@@ -28,7 +29,7 @@ My desire:
 - [minimal mistake tempalte](https://mmistakes.github.io/minimal-mistakes/): a flexible two column Jekyll template
 - [THRON](https://www.thron.com): an intelligent DAM, where to store and deliver images and video.
 
-# How to guide
+# How to setup
 I quickly describe the steps that I followed for the creation of the blog and the integration with the contents managed by THRON
 
 ## Clone the repository
