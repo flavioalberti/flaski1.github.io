@@ -1,17 +1,18 @@
 ---
 title: "Blogging with Jekyll, GitHub Pages and Thron platform"
 excerpt: "How to implement simple blog using the free Github service, a static site generator and the Thron DAM platform to centralize and deliver the multimedia content"
+header: 
+  teaser: "https://hub-view.thron.com/api/xcontents/resources/delivery/getThumbnail/hub/640x0/aa24c371-6146-4d5a-a186-7361207baf3e.jpg"
+  header_description: "THRON and GitHub"
+  caption: "Photo credit: THRON spa"
 categories:
   - posts
 tags: 
  - tech 
- - thron 
+ - THRON 
  - github
  - serverless
  - jekyll
-header: 
-  teaser: "https://hub-cdn.thron.com/delivery/public/image/hub/1ab78b0f-caed-4daa-944e-b03ff36f2d4b/1kvrf0/std/0x0/header.jpg"
-header_description: "some example"
 ---
 
 The goal is to create a simple blog, a place where I can share the FisherTransalp experience with my friends in a easy way, without duplicate contents between platform and channels.
@@ -25,7 +26,7 @@ My desire:
 # What I chose
 - [Github pages](https://pages.github.com/) It allows to host static and serverless pages (without the need for a hosting plan, and database)
 - [minimal mistake tempalte](https://mmistakes.github.io/minimal-mistakes/): a flexible two columb Jekyll template
-- [Thron](https://www.thron.com): an intelligent DAM, where to store and deliver images and video.
+- [THRON](https://www.thron.com): an intelligent DAM, where to store and deliver images and video.
 
 # How to guide
 I quickly describe the steps that I followed for the creation of the blog and the integration with the contents managed by THRON
@@ -48,7 +49,7 @@ src="https://<clientId>-cdn.thron.com/shared/plugins/embed/current/clientId/cont
 This is a simple guide how to upload contents in THRON [link](https://help.thron.com/hc/en-us/articles/203722971-How-to-create-new-content)
 
 ## Create a new post and use your images/video
-Create a new post and include the thron content using the *player*.
+Create a new post and include the THRON content using the *player*.
 Here some examples:
 
 A responsive image embedded on the page
