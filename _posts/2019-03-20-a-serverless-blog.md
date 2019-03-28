@@ -23,18 +23,18 @@ My desire:
 * *use THRON*: since I work there and is designed to manage content, and has an integrated delivery. Test a different way to integration with blogging platform
 
 # What I chose
-- [Github pages]("https://pages.github.com/") It allows to host static and serverless pages (without the need for a hosting plan, and database)
-- [minimal mistake tempalte]("https://mmistakes.github.io/minimal-mistakes/"): a flexible two columb Jekyll template
-- [Thron]("https://www.thron.com"): an intelligent DAM, where to store and deliver images and video.
+- [Github pages](https://pages.github.com/) It allows to host static and serverless pages (without the need for a hosting plan, and database)
+- [minimal mistake tempalte](https://mmistakes.github.io/minimal-mistakes/): a flexible two columb Jekyll template
+- [Thron](https://www.thron.com): an intelligent DAM, where to store and deliver images and video.
 
 # How to guide
 I quickly describe the steps that I followed for the creation of the blog and the integration with the contents managed by THRON
 
 ## Clone the repository
-Start by cloning the [minimal-mistake] repository ("https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/")
+Start by cloning the [minimal-mistake repository](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 
 ## Include the THRON Player
-Create a *thronplayer.html* file in _include folder where to define customize the [Player]("https://help.thron.com/hc/en-us/articles/115003098433-THRON-Universal-Player")
+Create a *thronplayer.html* file in _include folder where to define customize the [Player](https://help.thron.com/hc/en-us/articles/115003098433-THRON-Universal-Player/)
 
 {% highlight html %} 
 <div class="wrapper">
@@ -45,7 +45,7 @@ src="https://<clientId>-cdn.thron.com/shared/plugins/embed/current/clientId/cont
 {% endhighlight %}
 
 ## Upload your images and video in THRON
-This is a simple guide how to upload contents in THRON [link]("https://help.thron.com/hc/en-us/articles/203722971-How-to-create-new-content")
+This is a simple guide how to upload contents in THRON [link](https://help.thron.com/hc/en-us/articles/203722971-How-to-create-new-content)
 
 ## Create a new post and use your images/video
 Create a new post and include the thron content using the *player*.
