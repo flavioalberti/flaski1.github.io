@@ -9,9 +9,8 @@ header:
 categories:
   - posts
 tags: 
- - tools 
+ - equipment 
 ---
-# Ready to start
 
 A day dedicated to the preparations, I recovered all the necessary equipment and put it in the bags. I am ready to start this adventure 💪
 The meeting is Monday at 9:00 am in Ried, but the way to get to Austria is long, and certainly something interesting will happen during the journey 😀
