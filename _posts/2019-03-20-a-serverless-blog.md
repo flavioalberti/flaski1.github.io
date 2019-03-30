@@ -1,6 +1,6 @@
 ---
 title: "Blogging with Jekyll, GitHub Pages and THRON platform"
-excerpt: "How to implement simple blog using the free Github service, a static site generator and the THRON DAM platform to centralize and deliver the multimedia content"
+excerpt: "How to implement simple blog using the free Github service, a static site generator and the THRON DAM platform to centralize and deliver multimedia content"
 header: 
   teaser: "https://hub-view.thron.com/api/xcontents/resources/delivery/getThumbnail/hub/640x0/aa24c371-6146-4d5a-a186-7361207baf3e.jpg"
   header_description: "THRON and GitHub"
