@@ -1,6 +1,6 @@
 ---
 title: "Having fun in Schmirtal"
-excerpt: "The beginning of this adventure..."
+excerpt: "looking for powder across the border. This year there is not so much snow in the south, but beyond the border..."
 header: 
   image: "https://hub-cdn.thron.com/delivery/public/image/hub/79244839-3d56-4703-b955-b18a06046ca2/a8yszh/std/1600x400/header.jpg?scalemode=manual&cropmode=pixel&adjustcrop=extend&cropx=0&cropy=0&cropw=1600&croph=500"
   teaser: "https://hub-cdn.thron.com/delivery/public/image/hub/79244839-3d56-4703-b955-b18a06046ca2/a8yszh/std/800x0/header.jpg"
