@@ -1,6 +1,6 @@
 ---
 title: "Ready to start"
-excerpt: ""
+excerpt: "A wonderful adventure begins"
 header: 
   image: "https://hub-cdn.thron.com/delivery/public/image/hub/equipment/a8yszh/std/1600x400/header.jpg?scalemode=auto&cropmode=pixel&adjustcrop=extend&cropx=0&cropy=0&cropw=1600&croph=500"
   teaser: "https://hub-cdn.thron.com/delivery/public/image/hub/equipment/a8yszh/std/800x400/header.jpg?scalemode=auto"
