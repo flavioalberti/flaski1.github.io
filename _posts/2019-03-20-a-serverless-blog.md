@@ -15,14 +15,14 @@ tags:
  - jekyll
 ---
 
-The goal is to create a simple blog, a place where I can share the FisherTransalp experience with my friends in a easy way, without duplicate contents between platform and channels.
-A place where I can publish the photos and videos that I will carry out every day during the days where we are crossing the Alps from Livigno (IT) to Innsbruck (AT).
+My goal is to create a simple blog, a place where I can share the FisherTransalp experience with my friends in a easy way, without duplicate contents between platform and channels.
+A place where I can publish photos and videos that I will carry out every day during the FischerTransalp from Livigno (IT) to Innsbruck (AT).
 
 # My goal
 
-* *easy*: a Blog platform ease of use in writing and publishing content
-* *serverless*: I have no desire or resources to configure hosting plans and domains
-* *use THRON*: since I work there and is designed to manage content, and has an integrated delivery. Test a different way to integration with blogging platform
+* *easy*: setup a Blog platform easy of use in writing and publishing content
+* *serverless*: No pain with servers, hosting plans and other stuff
+* *use THRON*: try to use the THRON platform, because I can easily publish all kind of contents, without pains about delivery and storage.
 
 # What I chose
 - [Github pages](https://pages.github.com/) It allows to host static and serverless pages (without the need for a hosting plan, and database)
