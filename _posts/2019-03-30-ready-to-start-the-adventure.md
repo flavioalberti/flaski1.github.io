@@ -17,4 +17,5 @@ The meeting is Monday at 9:00 am in Ried, but the way to Austria is long, and ce
 
 {% include thronplayer.html contentId="equipment" divId="gallery1" padding="75%" pkey="a8yszh" clientId="hub"%}
 Go to the [equipment page](/posts/2019-03-19-equipment)
+<button onclick="tracker.cta()">Eqp</button>
 
