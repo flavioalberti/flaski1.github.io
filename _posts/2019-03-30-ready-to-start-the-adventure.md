@@ -16,6 +16,4 @@ A day dedicated to the preparations, I recovered all the necessary equipment and
 The meeting is Monday at 9:00 am in Ried, but the way to Austria is long, and certainly something interesting will happen during the journey 😀
 
 {% include thronplayer.html contentId="equipment" divId="gallery1" padding="75%" pkey="a8yszh" clientId="hub"%}
-Go to the [equipment page](/posts/2019-03-19-equipment)
-<button onclick="tracker.cta()">Eqp</button>
-
+Go to the <a href="https://flaski.alicubi.net/posts/2019-03-19-equipment" onclick="tracker.cta()" target="_blank">equipment page</a>
