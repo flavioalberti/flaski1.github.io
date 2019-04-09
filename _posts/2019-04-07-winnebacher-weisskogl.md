@@ -1,9 +1,9 @@
 ---
-title: "The last Day: Winnebacher Weisskogl"
-excerpt: "The last tour in stubai Alpen. The travers of Winnebacher Weisskogl."
+title: "Day 4: The unexpected day"
+excerpt: "A sunny and powder day in Val Roia, but with and unexpected end."
 header: 
-  image: "https://hub-cdn.thron.com/delivery/public/image/hub/climbing-up/a8yszh/std/1600x400/header.jpg?scalemode=manual&cropmode=pixel&adjustcrop=extend&cropx=0&cropy=1800&cropw=4000&croph=1250"
-  teaser: "https://hub-cdn.thron.com/delivery/public/image/hub/climbing-up/a8yszh/std/800x400/header.jpg?scalemode=auto"
+  image: "https://hub-cdn.thron.com/delivery/public/image/hub/griankopft/a8yszh/std/1600x400/header.jpg?scalemode=manual&cropmode=pixel&adjustcrop=extend&cropx=0&cropy=1050&cropw=4000&croph=1250"
+  teaser: "https://hub-cdn.thron.com/delivery/public/image/hub/griankopft/a8yszh/std/800x400/header.jpg?scalemode=auto"
   header_description: ""
   caption: ""
 categories:
@@ -13,24 +13,24 @@ tags:
  - fischertransalp
  - livetoski
  - fischerski
- - austria
+ - italia
  - snow
  - sun
- - winnebacher
 ---
 
-Last day of transalp, in this week I met new friends from all over the world, we laughed like never before,we faced wonderful moments but  also we felt tension and fear. It has been an unforgettable experience...
 
-{% includes thronplayer.html contentId = "map6" divId = "gallery1" padding = "75%" pkey = "a8yszh" clientId = "hub"%}
+As we aspected, the plan changed, after an havy snow fall during the night it's not thinkable to go up to the Vernag refuge, the avalange risk is too high. Along Vallunga there are steep slops and it's too dangerous to traverse it with a group like ours.
+So we've decided to move in the val Roia and go up towards the Griankopft spitze, that presents a terrain much more suitable for a grade 4 avalanche risk. 
+It's not possible to change the weather, and striving to travel the planned route can only lead to bad consequences. 
 
-After spending an entire day practicing with Beacon and reviewing the emergency procedures in case of avalanche (a very useful activity for the group after the accident on Friday), we moved to Gries im Sulztal, a small village in the north of Stubai Alps, where we started for our last tour of the transalp experience
-From the village, starting early in the morning, we climbed the long valley leading to the Winnebacher refuge. The Lodge is located in an amazing area, surrounded by an incredible amphitheater of peaks, with steep canals and valleys, a magical place in which I absolutely must return.
-Our goal, the Winnebacher Weisskogl is a summit of 3182m that can be reached quite easily with skis up to the fork, after which you must put on your crampons just to cover the last 50m that lead to the summit, from which you can enjoy of a spectacular 360 view.
+Anyway, an "epic" day awaited us, sunshine and 30cm of fresch snow, so let's go for "first tracks" in Val Roia, that today seams to to be a Norway fiord ...
+The climb is simple and pleasant, everybody happy to enjoy this beautiful day, but unfortunately the unexpected is always there around the corner, and the transition from fun to terror is immediate... as short as a curve, as fast as the detachment of an avalanche.
 
-{% includes thronplayer.html contentId = "last-stage" divId = "gallery3" padding = "75%" pkey = "a8yszh" clientId = "hub"%}
+During the descent, Thomas (the german guy), was involved in an avalanche accident, traversing a small slope came off under his feet also if we where skiing one by one. It was a small accident and fortunately with no consequences, but obviously unexpected and certainly not fun. Later I will try to better describe what happened, because it was an experience that taught me a lot of things both negative and positive.
 
-The descent took place in east direction, descending towards the refuge westfalenhaus until the crosscountry ski area of Lusens where we found our van ready to bring us to Innsbruck.
+We've spent several hours talking all together what had happened and what to do, the mood was not the best, and it was rightly decided to give up the next day's trip and dedicate the day to safety by doing of ARTVA research and self-rescue exercises, so as to find the right spirit and go on with the last day of Transalp.
 
-{% include thronplayer.html contentId="stubai" divId="gallery2" padding="75%" pkey="a8yszh" clientId="hub"%}
+{% include thronplayer.html contentId="val-roia-gallery" divId="gallery1" padding="75%" pkey="a8yszh" clientId="hub"%}
 
-Thanks friends, has been a pleasure to join with you this experience, and I hope to meet you again for new adventures
+{% include thronplayer.html contentId="val-roia-video" divId="gallery2" padding="75%" pkey="a8yszh" clientId="hub"%}
+
