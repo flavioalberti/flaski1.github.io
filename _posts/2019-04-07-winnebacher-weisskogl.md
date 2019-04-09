@@ -35,5 +35,5 @@ The descent took place in east direction, descending towards the refuge westfale
 
 {% include thronplayer.html contentId="stubai" divId="gallery2" padding="75%" pkey="a8yszh" clientId="hub"%}
 
-Thanks friends, has been a pleasure to join with you this experience, and I hope to meet you again for new adventures
+Thanks friends, has been a pleasure to share with you this experience, and I hope to meet you again for new adventures
 
