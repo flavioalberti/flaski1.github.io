@@ -18,6 +18,10 @@ tags:
  - sun
 ---
 
+Ultimo giorno di transalp, esperienza incredibile,ho conosciuto nuovi amici da ogni parte del mondo, abbiamo riso come non mai, e affrontato assieme anche momenti di tensione e paura.
+Ma questo è il bello, quando un gruppo affiatato e con la stessa passione condivide momenti unici come quelli passati in questa settimana. 
+Per l'ultima attraversata ci siamo trasferiti a Gries im Sulztal, un paesino a nord nelle Stubai Alps, dal quale abbiamo percorso la lunga valle in direzione est, che porta prima al rifugio Winnebacher e sucessivamente alla cima del Winnebacher Weisskogl. 
+
 
 
 
