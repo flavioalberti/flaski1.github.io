@@ -16,10 +16,10 @@ tags:
  - austria
  - snow
  - sun
- - Winnebacher
+ - winnebacher
 ---
 
-Last day of transalp, in this week I met new friends from all over the world, we laughed like never before,we faced wonderful moments but  also we felt tension and fear. It has been an unforgettable experience ...
+Last day of transalp, in this week I met new friends from all over the world, we laughed like never before,we faced wonderful moments but  also we felt tension and fear. It has been an unforgettable experience...
 
 {% includes thronplayer.html contentId = "map6" divId = "gallery1" padding = "75%" pkey = "a8yszh" clientId = "hub"%}
 
@@ -29,11 +29,8 @@ Our goal, the Winnebacher Weisskogl is a summit of 3182m that can be reached qui
 
 {% includes thronplayer.html contentId = "last-stage" divId = "gallery3" padding = "75%" pkey = "a8yszh" clientId = "hub"%}
 
-The descent took place in east direction, descending towards the refuge westfalenhaus until the crosscountry ski area of xxx where we found our van ready to bring us to Innsbruck.
+The descent took place in east direction, descending towards the refuge westfalenhaus until the crosscountry ski area of Lusens where we found our van ready to bring us to Innsbruck.
 
 {% include thronplayer.html contentId="stubai" divId="gallery2" padding="75%" pkey="a8yszh" clientId="hub"%}
 
-Thanks friends, has been a pleasure to join with you this experience, and I hope to meet you again for new adventures :)
-
-
-
+Thanks friends, has been a pleasure to join with you this experience, and I hope to meet you again for new adventures
