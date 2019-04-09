@@ -24,7 +24,7 @@ Last day of transalp, in this week I met new friends from all over the world, we
 
 After spending an entire day practicing with Beacon and reviewing the emergency procedures in case of avalanche (a very useful activity for the group after the accident on Friday), we moved to Gries im Sulztal, a small village in the north of Stubai Alps, where we started for our last tour of the transalp experience.
 
-{% include thronplayer.html contentId="nightshot" divId="gallery5 padding="75%" pkey="a8yszh" clientId="hub"%}
+{% include thronplayer.html contentId="nightshot" divId="gallery5" padding="75%" pkey="a8yszh" clientId="hub"%}
 
 From the village, starting early in the morning, we climbed the long valley leading to the Winnebacher refuge. The Lodge is located in an amazing area, surrounded by an incredible amphitheater of peaks, with steep canals and valleys, a magical place in which I absolutely must return.
 Our goal, the Winnebacher Weisskogl is a summit of 3182m that can be reached quite easily with skis up to the fork, after which you must put on your crampons just to cover the last 50m that lead to the summit, from which you can enjoy of a spectacular 360 view.
