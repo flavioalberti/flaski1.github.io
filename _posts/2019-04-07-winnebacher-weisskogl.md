@@ -2,8 +2,8 @@
 title: "The last Day: Winnebacher Weisskogl"
 excerpt: "The last day tour in stubai Alpen. The travers of Winnebacher Weisskogl"
 header: 
-  image: "https://hub-cdn.thron.com/delivery/public/image/hub/griankopft/a8yszh/std/1600x400/header.jpg?scalemode=manual&cropmode=pixel&adjustcrop=extend&cropx=0&cropy=1050&cropw=4000&croph=1250"
-  teaser: "https://hub-cdn.thron.com/delivery/public/image/hub/griankopft/a8yszh/std/800x400/header.jpg?scalemode=auto"
+  image: "https://hub-cdn.thron.com/delivery/public/image/hub/climbing-up/a8yszh/std/1600x400/header.jpg?scalemode=manual&cropmode=pixel&adjustcrop=extend&cropx=0&cropy=1800&cropw=4000&croph=1250"
+  teaser: "https://hub-cdn.thron.com/delivery/public/image/hub/climbing-up/a8yszh/std/800x400/header.jpg?scalemode=auto"
   header_description: ""
   caption: ""
 categories:
@@ -16,16 +16,23 @@ tags:
  - austria
  - snow
  - sun
+ - Winnebacher
 ---
 
-Ultimo giorno di transalp, esperienza incredibile,ho conosciuto nuovi amici da ogni parte del mondo, abbiamo riso come non mai, e affrontato assieme anche momenti di tensione e paura.
-Ma questo è il bello, quando un gruppo affiatato e con la stessa passione condivide momenti unici come quelli passati in questa settimana. 
-Per l'ultima attraversata ci siamo trasferiti a Gries im Sulztal, un paesino a nord nelle Stubai Alps, dal quale abbiamo percorso la lunga valle in direzione est, che porta prima al rifugio Winnebacher e sucessivamente alla cima del Winnebacher Weisskogl. 
+Last day of transalp, in this week I met new friends from all over the world, we laughed like never before,we faced wonderful moments but  also we felt tension and fear. It has been an unforgettable experience ...
+
+{% includes thronplayer.html contentId = "map6" divId = "gallery1" padding = "75%" pkey = "a8yszh" clientId = "hub"%}
+
+After spending an entire day practicing with Beacon and reviewing the emergency procedures in case of avalanche (a very useful activity for the group after the accident on Friday), we moved to Gries im Sulztal, a small village in the north of Stubai Alps, where we started for our last tour of the transalp experience
+From the village, starting early in the morning, we climbed the long valley leading to the Winnebacher refuge. The Lodge is located in an amazing area, surrounded by an incredible amphitheater of peaks, with steep canals and valleys, a magical place in which I absolutely must return.
+Our goal, the Winnebacher Weisskogl is a summit of 3182m that can be reached quite easily with skis up to the fork, after which you must put on your crampons just to cover the last 50m that lead to the summit, from which you can enjoy of a spectacular 360 view.
+
+{% includes thronplayer.html contentId = "last-stage" divId = "gallery1" padding = "75%" pkey = "a8yszh" clientId = "hub"%}
+
+The descent took place in east direction, descending towards the refuge westfalenhaus until the crosscountry ski area of xxx where we found our van ready to bring us to Innsbruck.
+
+Thanks friends, has been a pleasure to join with you this experience, and I hope to meet you again for new adventures :)
 
 
-
-
-{% include thronplayer.html contentId="val-roia-gallery" divId="gallery1" padding="75%" pkey="a8yszh" clientId="hub"%}
-
-{% include thronplayer.html contentId="val-roia-video" divId="gallery2" padding="75%" pkey="a8yszh" clientId="hub"%}
+{% include thronplayer.html contentId="stubai" divId="gallery2" padding="75%" pkey="a8yszh" clientId="hub"%}
 
